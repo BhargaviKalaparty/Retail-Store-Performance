@@ -8,7 +8,9 @@ On a client’s dataset, descriptive statistics are analysed based on the KPI’
 
 The dataset given contains three key performance indicators (KPIs) at all the outlets of a retail company. In each variable, a high score is desirable.
 
-# Research scope and visualisations:#How much variation is there between the outlets?
+# Research scope and visualisations:
+
+• How much variation is there between the outlets?
 
 • The mean of KPI’s (location value and engagement score) to the respective store id’s. 
 
