@@ -4,11 +4,9 @@ On a client’s dataset, descriptive statistics are analysed based on the KPI’
 # Data:
 The dataset given contains three key performance indicators (KPIs) at all the outlets of a retail company. In each variable, a high score is desirable.
 # Reasearch scope and visualisations:#How much variation is there between the outlets?
-• Are there a few falling behind?
-• Are stores that excel in one KPI also, on average, excelling in others?
-• Is there a difference in the averages of the other KPIs between the Low, Medium and
-High categories?
-• What is the uncertainty in those group averages?
+• The mean of KPI’s (location value and engagement score) to the respective store id’s. 
+• The uncertainty
+• Correlation
 ![image](https://github.com/BhargaviKalaparty/Retail-Store-Performance/assets/149389777/006b89f7-3226-48cd-9079-2a574faee037)
 ![image](https://github.com/BhargaviKalaparty/Retail-Store-Performance/assets/149389777/4d22f336-732a-4055-a98b-341c982df26d)
 ![image](https://github.com/BhargaviKalaparty/Retail-Store-Performance/assets/149389777/727e3438-4622-414f-bb5e-27d4a738094d)
