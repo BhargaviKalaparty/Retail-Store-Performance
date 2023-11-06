@@ -11,7 +11,9 @@ The dataset given contains three key performance indicators (KPIs) at all the ou
 # Research scope and visualisations:#How much variation is there between the outlets?
 
 • The mean of KPI’s (location value and engagement score) to the respective store id’s. 
+
 • The uncertainty.
+
 • Correlation.
 
 ![image](https://github.com/BhargaviKalaparty/Retail-Store-Performance/assets/149389777/006b89f7-3226-48cd-9079-2a574faee037)
